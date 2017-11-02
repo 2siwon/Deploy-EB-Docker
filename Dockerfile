@@ -1,4 +1,4 @@
-FROM        azelf/base
+FROM        base
 MAINTAINER  dev@azelf.com
 
 ENV         LANG C.UTF-8
